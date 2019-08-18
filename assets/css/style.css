@@ -1,11 +1,12 @@
 
 .jumbotron {
-    background: url("../images/background.jpg") no-repeat;
-    background-size: 100%;
+    background-color: whitesmoke;
+
 }
 
 .instructions {
     background: rgb(151,229,252);
+    float: right;
 }
 
 

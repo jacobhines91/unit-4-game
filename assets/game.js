@@ -11,7 +11,7 @@ $(".magic-number").html(magicNum);
 
 
 // genrate random value for crystals 1-12
-numberOptions = [10, 5, 3, 7];
+
 
     for (var i = 0; i < numberOptions.length; i++) {
         var
